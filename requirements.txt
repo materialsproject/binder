@@ -1,2 +1,2 @@
-mp-api
+mp-api>=0.26.3
 crystal-toolkit
